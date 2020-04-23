@@ -1,0 +1,6 @@
+<img src="img/png/mobile-gps.png" alt="celular com imagem da página gps atrás do celular com imagem da página 'frequência cardíaca'.">     
+<img src="img/png/mobile-pulse.png" alt="celular com imagem da página 'frequência cardíaca'.">
+<img class="grid-3" src="img/svg/googleplay.svg" alt="googleplay">
+<img src="img/svg/appstore.svg" alt="appstore">
+<img src="img/png/eyepet-produto.png" alt="sensor ultrassônico - preto">
+<source src="img/eyepet-video.mp4" type="video/mp4">
